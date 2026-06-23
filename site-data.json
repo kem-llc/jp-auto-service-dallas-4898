@@ -2,321 +2,321 @@
   "business": {
     "name": "JP Auto Service",
     "shortName": "JP Auto",
-    "tagline": "Precision Auto Repair in Dallas, TX",
+    "tagline": "Expert Auto Repair in Dallas, TX",
     "niche": "Auto Mechanic",
     "phone": "(214) 882-4898",
     "address": "1602 Rowan Ave, Dallas, TX 75223",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Appointment",
+    "hours": "Mon-Fri 7:30 AM - 5:30 PM, Sat 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule Your Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "JP Auto Service | Trusted Auto Mechanic in Dallas, TX | (214) 882-4898",
-    "description": "JP Auto Service in Dallas, TX offers expert auto repair, maintenance, and diagnostics. Call (214) 882-4898 for reliable, honest service from certified mechanics."
+    "description": "JP Auto Service in Dallas, TX offers expert auto repair and maintenance. Call (214) 882-4898 for reliable, honest service from experienced mechanics."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas' Trusted Auto Repair",
-      "headline": "Expert Auto Mechanic Serving Dallas, TX",
-      "subheadline": "From routine oil changes to complex engine diagnostics, our certified technicians provide honest, high-quality service to keep your vehicle running smoothly.",
-      "primaryCta": "Schedule Service",
-      "secondaryCta": "Call (214) 882-4898"
+      "eyebrow": "Dallas's Trusted Auto Repair Experts",
+      "headline": "Reliable Auto Service You Can Count On",
+      "subheadline": "From routine maintenance to major repairs, our skilled mechanics deliver quality workmanship at fair prices. Serving Dallas with pride.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Learn More"
     },
     "stats": [
-      {
-        "value": "4.6",
-        "label": "Average Rating"
-      },
       {
         "value": "15+",
         "label": "Years Experience"
       },
       {
-        "value": "1000+",
-        "label": "Vehicles Serviced"
+        "value": "1,000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
       },
       {
         "value": "100%",
-        "label": "Customer Satisfaction"
+        "label": "Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
         "eyebrow": "Comprehensive Care",
         "title": "Full-Service Auto Repair & Maintenance",
-        "body": "At JP Auto Service, we handle everything from brake repairs and tire rotations to transmission service and AC diagnostics. Our state-of-the-art equipment and ASE-certified mechanics ensure your car gets the care it deserves.",
+        "body": "Whether you need an oil change, brake repair, or engine diagnostics, our team has the expertise to get you back on the road safely. We use top-quality parts and advanced tools.",
         "bullets": [
-          "Engine diagnostics & check engine light",
-          "Brake repair & replacement",
-          "Oil changes & fluid checks",
-          "Tire rotation & balancing"
+          "Factory scheduled maintenance",
+          "Brake, suspension, and steering repairs",
+          "Check engine light diagnostics",
+          "Tire rotation and replacement"
         ],
         "reverse": false,
-        "cardLabel": "Quality Parts",
-        "cardTitle": "Genuine & Aftermarket Options",
-        "cardBody": "We use high-quality OEM and aftermarket parts to match your budget and performance needs, backed by a comprehensive warranty."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Honest & Transparent",
+        "cardBody": "We explain every repair in plain English, provide upfront pricing, and never recommend unnecessary work."
       },
       {
-        "eyebrow": "Transparent Service",
-        "title": "Honest, No-Pressure Approach",
-        "body": "We believe in clear communication and upfront pricing. Before any work begins, we explain the issue, provide a detailed estimate, and get your approval. No hidden fees, no upsells—just trustworthy service.",
+        "eyebrow": "Customer Focused",
+        "title": "Designed for Your Convenience",
+        "body": "We know your time is valuable. That's why we offer timely service, comfortable waiting areas, and clear communication throughout the repair process.",
         "bullets": [
-          "Free multi-point inspections",
-          "Detailed estimates before work",
-          "Digital vehicle reports with photos",
-          "Competitive pricing with warranty"
+          "Free multi-point inspection",
+          "Shuttle service available",
+          "Digital estimates and approvals",
+          "Warranty on all repairs"
         ],
         "reverse": true,
-        "cardLabel": "Customer First",
-        "cardTitle": "Your Convenience Matters",
-        "cardBody": "We offer shuttle service and loaner vehicles to minimize downtime, so you can get back on the road quickly."
+        "cardLabel": "Our Difference",
+        "cardTitle": "Quality You Can Trust",
+        "cardBody": "Our certified technicians stay current with the latest automotive technology to ensure your car receives the best care possible."
       }
     ],
     "whyTitle": "Why Choose JP Auto Service?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our team holds ASE certifications and undergoes continuous training to stay ahead of the latest automotive technology."
-      },
-      {
-        "title": "Fast Turnaround",
-        "description": "Most services are completed same-day or within 24 hours, with priority scheduling for urgent repairs."
+        "description": "Our mechanics are ASE-certified and undergo continuous training to service all makes and models."
       },
       {
         "title": "Fair & Transparent Pricing",
-        "description": "We provide competitive rates with no surprise charges. Every repair comes with a detailed invoice and warranty."
+        "description": "We provide detailed estimates before any work begins, so you never face surprise charges."
       },
       {
-        "title": "Locally Owned & Operated",
-        "description": "Proudly serving the Dallas community since 2008, we treat every customer like a neighbor."
+        "title": "Fast Turnaround",
+        "description": "Most services are completed the same day, getting you back on the road quickly."
+      },
+      {
+        "title": "Customer Satisfaction Guaranteed",
+        "description": "We stand behind our work with a comprehensive warranty and a 100% satisfaction promise."
       }
     ],
     "testimonials": [
       {
-        "quote": "JP Auto Service diagnosed my check engine light quickly and fixed it at a fair price. They even showed me photos of the issue. Highly recommend!",
+        "quote": "JP Auto Service is the best mechanic I've ever used. They diagnosed my car's issue quickly and fixed it at a fair price. Highly recommend!",
         "author": "Mike R.",
-        "role": "Lakewood Resident"
+        "role": "Dallas homeowner"
       },
       {
-        "quote": "I've been bringing my SUV here for years. They're honest, reliable, and always get the job done right the first time.",
-        "author": "Lisa T.",
-        "role": "East Dallas Homeowner"
+        "quote": "I've been bringing my family's cars here for years. Honest, reliable, and always top-notch service. They truly care about their customers.",
+        "author": "Linda S.",
+        "role": "Lake Highlands resident"
       },
       {
-        "quote": "Needed a transmission flush and they completed it in under two hours. Great communication and friendly staff.",
+        "quote": "Needed an emergency brake repair and they got me in same day. Friendly staff and excellent work. Will definitely be back!",
         "author": "David K.",
-        "role": "White Rock Area"
+        "role": "East Dallas professional"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Serviced?",
-      "subheadline": "Schedule your appointment today and experience the JP Auto difference.",
-      "primaryCta": "Book Online",
-      "secondaryCta": "Call (214) 882-4898"
+      "headline": "Ready to Experience the JP Auto Difference?",
+      "subheadline": "Schedule your appointment today and see why Dallas drivers trust us with their vehicles.",
+      "primaryCta": "Call (214) 882-4898",
+      "secondaryCta": "Get a Free Estimate"
     }
   },
   "servicesPage": {
-    "intro": "From routine maintenance to major repairs, JP Auto Service offers a full range of automotive services backed by expertise and integrity. Our certified mechanics use advanced diagnostics and quality parts to keep your vehicle performing at its best."
+    "intro": "At JP Auto Service, we offer a full range of auto repair and maintenance services to keep your vehicle running smoothly. From oil changes to engine overhauls, our certified technicians have the skills and equipment to handle any job."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert repairs for all engine issues.",
-      "longDescription": "Is your check engine light on? Our advanced diagnostic tools pinpoint the problem quickly. From minor sensor replacements to major overhauls, we restore your engine's performance and reliability.",
-      "benefits": [
-        "Restore fuel efficiency and power",
-        "Prevent costly breakdowns",
-        "Extend engine lifespan",
-        "Peace of mind with warranty"
-      ],
-      "process": [
-        {
-          "title": "Comprehensive Scan",
-          "description": "We connect your vehicle to our diagnostic computer to read error codes and live data."
-        },
-        {
-          "title": "In-Depth Inspection",
-          "description": "Our technician performs a visual and mechanical inspection to confirm the root cause."
-        },
-        {
-          "title": "Repair & Verification",
-          "description": "We complete the repair using quality parts, then test-drive to ensure the issue is resolved."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics take 30-60 minutes. Repairs vary based on complexity."
-        },
-        {
-          "question": "Do you offer a warranty on engine repairs?",
-          "answer": "Yes, all engine repairs come with a 12-month/12,000-mile warranty."
-        }
-      ],
-      "slug": "engine-diagnostics-repair"
-    },
-    {
-      "icon": "02",
-      "title": "Brake Service & Repair",
-      "shortDescription": "Keep your brakes responsive and safe with our expert service.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid levels to ensure optimal stopping power. Whether you need a pad replacement or a full brake system overhaul, we have you covered.",
-      "benefits": [
-        "Improved stopping distance",
-        "Reduced noise and vibration",
-        "Extended brake component life",
-        "Enhanced safety for you and your family"
-      ],
-      "process": [
-        {
-          "title": "Brake Inspection",
-          "description": "We measure pad thickness, rotor condition, and check for leaks."
-        },
-        {
-          "title": "Component Replacement",
-          "description": "Worn pads and rotors are replaced with high-quality parts."
-        },
-        {
-          "title": "System Test",
-          "description": "We test the brakes on the road to confirm smooth, quiet operation."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits."
-        },
-        {
-          "question": "What are signs of brake trouble?",
-          "answer": "Squealing, grinding, a soft pedal, or vibration when braking."
-        }
-      ],
-      "slug": "brake-service-repair"
-    },
-    {
-      "icon": "03",
       "title": "Oil Change & Fluid Services",
-      "shortDescription": "Regular oil changes to keep your engine running smoothly.",
-      "longDescription": "Routine oil changes are the best way to protect your engine. We use quality oils and filters, and also check all other fluids (coolant, transmission, brake, power steering) to keep your vehicle in top shape.",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes and fluid checks.",
+      "longDescription": "Regular oil changes are the most important maintenance task for your vehicle. We use high-quality oils and filters to protect your engine, improve fuel economy, and extend engine life. Our fluid services include transmission, brake, coolant, and power steering fluid exchanges to ensure all systems operate at peak performance.",
       "benefits": [
-        "Prolong engine life",
-        "Improve fuel economy",
-        "Prevent overheating and wear",
-        "Complimentary multi-point inspection"
+        "Extends engine life and improves performance",
+        "Enhances fuel efficiency",
+        "Prevents costly repairs down the road",
+        "Includes complimentary multi-point inspection"
       ],
       "process": [
         {
-          "title": "Drain Old Oil",
-          "description": "We safely drain the old oil and replace the filter."
+          "title": "Inspection",
+          "description": "We check your current oil level, condition, and all fluid reservoirs."
         },
         {
-          "title": "Refill with New Oil",
-          "description": "We add the correct grade and amount of oil for your vehicle."
+          "title": "Drain & Replace",
+          "description": "Old oil is drained, filter replaced, and fresh oil is added to manufacturer specifications."
         },
         {
-          "title": "Fluid Check & Top-Off",
-          "description": "We inspect and top off all other fluids as needed."
+          "title": "Final Check",
+          "description": "We verify no leaks, reset your oil life monitor, and provide a sticker for your next service."
         }
       ],
       "faqs": [
-        {
-          "question": "What type of oil do you use?",
-          "answer": "We offer conventional, synthetic blend, and full synthetic options to match your vehicle's requirements."
-        },
         {
           "question": "How often should I get an oil change?",
-          "answer": "Most modern cars need one every 5,000-7,500 miles, but check your owner's manual."
+          "answer": "Most modern vehicles need an oil change every 5,000 to 7,500 miles. Check your owner's manual for specific recommendations."
+        },
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We use conventional, synthetic blend, and full synthetic oils from top brands to match your vehicle's requirements."
         }
       ],
       "slug": "oil-change-fluid-services"
     },
     {
+      "icon": "02",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Restore stopping power with professional brake services.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. Our brake services include inspection, pad and rotor replacement, caliper repair, and brake fluid flush. We use premium parts to ensure quiet, confident stopping and long-lasting performance. Signs you need brake service: squealing, grinding, vibration, or a soft pedal.",
+      "benefits": [
+        "Enhanced safety and stopping distance",
+        "Eliminates noise and vibration",
+        "Prevents damage to rotors and calipers",
+        "Backed by our service warranty"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We measure pad thickness, rotor condition, and check calipers, lines, and fluid."
+        },
+        {
+          "title": "Component Replacement",
+          "description": "Worn pads and rotors are replaced with high-quality OEM or equivalent parts."
+        },
+        {
+          "title": "Test Drive & Adjustment",
+          "description": "We test the brakes on the road and make final adjustments for optimal performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long do brake pads last?",
+          "answer": "Typically 30,000 to 70,000 miles depending on driving habits and conditions."
+        },
+        {
+          "question": "Why are my brakes squeaking?",
+          "answer": "Squeaking often indicates worn pads or dust between components. We can diagnose and fix the issue quickly."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Advanced diagnostics to pinpoint and fix engine issues.",
+      "longDescription": "When your check engine light comes on or your car isn't performing as it should, our advanced diagnostic equipment quickly identifies the root cause. We then provide a clear explanation and repair options. From sensor replacements to major engine work, our technicians are equipped to handle all makes and models.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Restores performance and fuel economy",
+        "Prevents minor issues from becoming major",
+        "Includes detailed report and recommendations"
+      ],
+      "process": [
+        {
+          "title": "Scan & Analyze",
+          "description": "We connect a professional scanner to read trouble codes and live data."
+        },
+        {
+          "title": "In-Depth Testing",
+          "description": "Further tests like compression, vacuum, and fuel pressure pinpoint the issue."
+        },
+        {
+          "title": "Repair & Verify",
+          "description": "We perform the necessary repair and test drive to ensure the problem is resolved."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What does the check engine light mean?",
+          "answer": "It can indicate anything from a loose gas cap to a serious engine problem. We'll diagnose it accurately."
+        },
+        {
+          "question": "Can you fix check engine light issues same day?",
+          "answer": "Many issues can be fixed same day. We'll let you know the scope of work after diagnosis."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
       "icon": "04",
       "title": "Tire Services & Alignment",
-      "shortDescription": "Extend tire life and improve handling with our tire services.",
-      "longDescription": "Proper tire maintenance ensures safety and efficiency. We offer tire rotation, balancing, mounting, and wheel alignment to promote even wear, better fuel economy, and a smoother ride.",
+      "shortDescription": "Maximize tire life and handling with expert tire care.",
+      "longDescription": "Proper tire maintenance is essential for safety, fuel economy, and ride comfort. We offer tire rotation, balancing, new tire installation, and precision wheel alignment. Our state-of-the-art alignment equipment ensures your vehicle tracks straight and tires wear evenly. We also provide flat repair and tire pressure checks.",
       "benefits": [
-        "Even tire wear for longer life",
+        "Longer tire life and even wear",
+        "Improved handling and stability",
         "Better fuel efficiency",
-        "Improved handling and safety",
-        "Reduced road noise"
+        "Smoother, quieter ride"
       ],
       "process": [
         {
           "title": "Tire Inspection",
-          "description": "We check tread depth, pressure, and overall condition."
+          "description": "We check tread depth, pressure, and overall condition of all tires."
         },
         {
           "title": "Rotation & Balancing",
-          "description": "Tires are rotated and balanced to prevent uneven wear."
+          "description": "Tires are rotated according to manufacturer pattern and balanced to eliminate vibration."
         },
         {
           "title": "Alignment Check",
-          "description": "We adjust angles to manufacturer specs for optimal handling."
+          "description": "Using precision equipment, we adjust camber, caster, and toe to factory specs."
         }
       ],
       "faqs": [
         {
           "question": "How often should I rotate my tires?",
-          "answer": "Every 5,000-7,500 miles, typically during an oil change."
+          "answer": "Every 5,000 to 7,500 miles, or as recommended in your owner's manual."
         },
         {
-          "question": "Do I need an alignment if my car pulls to one side?",
-          "answer": "Yes, that's a common sign of misalignment. We can check and correct it."
+          "question": "Do I need an alignment if I hit a pothole?",
+          "answer": "Yes, potholes can knock your alignment out of spec. Signs include pulling to one side or uneven tire wear."
         }
       ],
       "slug": "tire-services-alignment"
     }
   ],
   "about": {
-    "headline": "Your Trusted Dallas Auto Repair Shop",
-    "mission": "To provide honest, high-quality automotive service that keeps our community safe and mobile, with transparency and integrity at every step.",
+    "headline": "Your Trusted Local Auto Repair Shop in Dallas",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road.",
     "story": [
-      "JP Auto Service was founded in 2008 by John P., a master technician with over 20 years of experience. Starting as a small two-bay shop on Rowan Avenue, John built a reputation for meticulous work and fair pricing. Word spread quickly among Dallas residents who were tired of high-pressure sales and shoddy repairs.",
-      "Over the years, we've grown into a full-service auto repair facility serving the entire Dallas metro area. Our team of ASE-certified mechanics shares John's commitment to excellence. We invest in the latest diagnostic equipment and ongoing training to handle everything from vintage cars to the latest hybrids. At JP Auto Service, you're not just a customer—you're a neighbor."
+      "JP Auto Service was founded with a simple mission: deliver expert auto repair with integrity. Our founder, a lifelong mechanic, saw too many customers overcharged for unnecessary work. He built JP Auto on transparency, fair pricing, and technical excellence. Today, we serve Dallas drivers from our Rowan Avenue shop, treating every car as if it were our own.",
+      "Over the years, we've grown from a small two-bay garage to a full-service shop equipped with the latest diagnostic tools. But our core values remain unchanged. We invest in our team's training, use quality parts, and take the time to educate our customers. Whether it's a simple oil change or a complex engine repair, you can count on JP Auto Service for reliable, honest work."
     ],
     "highlight": {
       "stat": "15+",
-      "label": "Years of Service in Dallas"
+      "label": "Years of Trusted Service"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We never recommend unnecessary repairs. Our estimates are detailed and transparent."
+        "description": "We always tell you what your car needs and why, with no upsell pressure."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+        "description": "We use premium parts and follow manufacturer specifications for every repair."
       },
       {
         "title": "Community",
-        "description": "We support local events and treat every customer with the respect they deserve."
+        "description": "We're proud to be a locally owned business serving our Dallas neighbors."
       },
       {
-        "title": "Expertise",
-        "description": "Continuous training ensures our team stays ahead of automotive advancements."
+        "title": "Reliability",
+        "description": "We stand behind our work with warranties and a commitment to customer satisfaction."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch with JP Auto Service",
-    "subheadline": "We're here to help with all your auto repair needs. Call, visit, or schedule online.",
+    "subheadline": "Ready to schedule your appointment or have a question? We're here to help.",
     "primaryCta": "Call (214) 882-4898",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Lakewood",
       "East Dallas",
+      "Lake Highlands",
       "White Rock",
-      "Highland Park",
-      "University Park",
-      "Oak Lawn",
-      "Uptown"
+      "Old East Dallas",
+      "Casa View",
+      "Pleasant Grove",
+      "Oak Cliff"
     ]
   },
   "social_proof": {
-    "rating": 4.6,
+    "rating": "",
     "reviews": null
   },
   "meta": {
